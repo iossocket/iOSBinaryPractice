@@ -1,0 +1,23 @@
+{
+  "name": "iOSBinaryPractice",
+  "version": "1.0.0",
+  "summary": "iOSBinaryPractice",
+  "description": "iOS 组件二进制化方案 Demo",
+  "homepage": "https://github.com/iossocket/iOSBinaryPractice.git",
+  "license": "MIT",
+  "authors": {
+    "iossocket": "avx302@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/iossocket/iOSBinaryPractice.git",
+    "tag": "1.0.0"
+  },
+  "vendored_frameworks": "Products/*.framework",
+  "dependencies": {
+    "MFSIdentifier": [
+    ]
+  }
+}
