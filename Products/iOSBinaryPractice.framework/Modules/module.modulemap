@@ -1,6 +1,0 @@
-framework module iOSBinaryPractice {
-  umbrella header "iOSBinaryPractice.h"
-
-  export *
-  module * { export * }
-}
